@@ -1,6 +1,6 @@
 # Isotope Assets
 
-A dumb CDN of assets used by [Isotope](https://github.com/Mahyar132/Mahyar132.github.io)
+A dumb CDN for assets used by [Isotope](https://github.com/Mahyar132/Mahyar132.github.io)
 
 ## About
 
